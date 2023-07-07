@@ -1,0 +1,15 @@
+,0
+risk_reward_ratio,0.9586192667375393
+cagr_over_avg_dd,0.9308843454492985
+cagr_over_max_dd,0.005966413596770131
+max_drawdown_dollars,-942.0651127845364
+max_drawdown_percent,-90.67182040827942
+avg_drawdown_dollars,-601.2400032141563
+avg_drawdown_percent,-0.5811523040133916
+min_drawdown_dollars,-5.811470727194433
+min_drawdown_percent,-0.00593626290989735
+max_con_losing_trades,12.0
+max_con_losing_trades_percent,-85.39136891467055
+largest_single_loss_dollars,-51.63861157009889
+largest_single_loss_percent,-19.63965218326715
+max_position_held,2154.162927476033

@@ -1,0 +1,11 @@
+,0
+return_on_initial_capital,-99.67461491154364
+buyandhold_return,35.27953731754339
+max_drawdown_percent,-99.75131187303455
+recovery_factor,0.8100485815545921
+sharpe_ratio,-0.3388558498101027
+percent_of_time_in_market,99.72155540313976
+max_position_held,2275.126328232075
+total_commission,249.11018141246677
+total_slippage,100.77831644242266
+date_of_mdd,2022-12-19 05:00:00
